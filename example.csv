@@ -1,0 +1,250 @@
+﻿English-Short-Name,Alpha-2-code,Alpha-3-code,Numeric-code,Independent
+Afghanistan,AF,AFG,4,Yes
+Åland Islands,AX,ALA,248,No
+Albania,AL,ALB,8,Yes
+Algeria,DZ,DZA,12,Yes
+American Samoa,AS,ASM,16,No
+Andorra,AD,AND,20,Yes
+Angola,AO,AGO,24,Yes
+Anguilla,AI,AIA,660,No
+Antarctica,AQ,ATA,10,No
+Antigua and Barbuda,AG,ATG,28,Yes
+Argentina,AR,ARG,32,Yes
+Armenia,AM,ARM,51,Yes
+Aruba,AW,ABW,533,No
+Australia,AU,AUS,36,Yes
+Austria,AT,AUT,40,Yes
+Azerbaijan,AZ,AZE,31,Yes
+Bahamas,BS,BHS,44,Yes
+Bahrain,BH,BHR,48,Yes
+Bangladesh,BD,BGD,50,Yes
+Barbados,BB,BRB,52,Yes
+Belarus,BY,BLR,112,Yes
+Belgium,BE,BEL,56,Yes
+Belize,BZ,BLZ,84,Yes
+Benin,BJ,BEN,204,Yes
+Bermuda,BM,BMU,60,No
+Bhutan,BT,BTN,64,Yes
+Bolivia (Plurinational State of),BO,BOL,68,Yes
+Bonaire, Sint Eustatius and Saba,BQ,BES,535,No
+Bosnia and Herzegovina,BA,BIH,70,Yes
+Botswana,BW,BWA,72,Yes
+Bouvet Island,BV,BVT,74,No
+Brazil,BR,BRA,76,Yes
+British Indian Ocean Territory,IO,IOT,86,No
+Brunei Darussalam,BN,BRN,96,Yes
+Bulgaria,BG,BGR,100,Yes
+Burkina Faso,BF,BFA,854,Yes
+Burundi,BI,BDI,108,Yes
+Cabo Verde,CV,CPV,132,Yes
+Cambodia,KH,KHM,116,Yes
+Cameroon,CM,CMR,120,Yes
+Canada,CA,CAN,124,Yes
+Cayman Islands,KY,CYM,136,No
+Central African Republic,CF,CAF,140,Yes
+Chad,TD,TCD,148,Yes
+Chile,CL,CHL,152,Yes
+China,CN,CHN,156,Yes
+Christmas Island,CX,CXR,162,No
+Cocos (Keeling) Islands,CC,CCK,166,No
+Colombia,CO,COL,170,Yes
+Comoros,KM,COM,174,Yes
+Congo,CG,COG,178,Yes
+Congo (Democratic Republic of the),CD,COD,180,Yes
+Cook Islands,CK,COK,184,No
+Costa Rica,CR,CRI,188,Yes
+Côte d'Ivoire,CI,CIV,384,Yes
+Croatia,HR,HRV,191,Yes
+Cuba,CU,CUB,192,Yes
+Curaçao,CW,CUW,531,No
+Cyprus,CY,CYP,196,Yes
+Czechia,CZ,CZE,203,Yes
+Denmark,DK,DNK,208,Yes
+Djibouti,DJ,DJI,262,Yes
+Dominica,DM,DMA,212,Yes
+Dominican Republic,DO,DOM,214,Yes
+Ecuador,EC,ECU,218,Yes
+Egypt,EG,EGY,818,Yes
+El Salvador,SV,SLV,222,Yes
+Equatorial Guinea,GQ,GNQ,226,Yes
+Eritrea,ER,ERI,232,Yes
+Estonia,EE,EST,233,Yes
+Ethiopia,ET,ETH,231,Yes
+Falkland Islands (Malvinas),FK,FLK,238,No
+Faroe Islands,FO,FRO,234,No
+Fiji,FJ,FJI,242,Yes
+Finland,FI,FIN,246,Yes
+France,FR,FRA,250,Yes
+French Guiana,GF,GUF,254,No
+French Polynesia,PF,PYF,258,No
+French Southern Territories,TF,ATF,260,No
+Gabon,GA,GAB,266,Yes
+Gambia,GM,GMB,270,Yes
+Georgia,GE,GEO,268,Yes
+Germany,DE,DEU,276,Yes
+Ghana,GH,GHA,288,Yes
+Gibraltar,GI,GIB,292,No
+Greece,GR,GRC,300,Yes
+Greenland,GL,GRL,304,No
+Grenada,GD,GRD,308,Yes
+Guadeloupe,GP,GLP,312,No
+Guam,GU,GUM,316,No
+Guatemala,GT,GTM,320,Yes
+Guernsey,GG,GGY,831,No
+Guinea,GN,GIN,324,Yes
+Guinea-Bissau,GW,GNB,624,Yes
+Guyana,GY,GUY,328,Yes
+Haiti,HT,HTI,332,Yes
+Heard Island and McDonald Islands,HM,HMD,334,No
+Holy See,VA,VAT,336,Yes
+Honduras,HN,HND,340,Yes
+Hong Kong,HK,HKG,344,No
+Hungary,HU,HUN,348,Yes
+Iceland,IS,ISL,352,Yes
+India,IN,IND,356,Yes
+Indonesia,ID,IDN,360,Yes
+Iran (Islamic Republic of),IR,IRN,364,Yes
+Iraq,IQ,IRQ,368,Yes
+Ireland,IE,IRL,372,Yes
+Isle of Man,IM,IMN,833,No
+Israel,IL,ISR,376,Yes
+Italy,IT,ITA,380,Yes
+Jamaica,JM,JAM,388,Yes
+Japan,JP,JPN,392,Yes
+Jersey,JE,JEY,832,No
+Jordan,JO,JOR,400,Yes
+Kazakhstan,KZ,KAZ,398,Yes
+Kenya,KE,KEN,404,Yes
+Kiribati,KI,KIR,296,Yes
+Korea (Democratic People's Republic of),KP,PRK,408,Yes
+Korea (Republic of),KR,KOR,410,Yes
+Kuwait,KW,KWT,414,Yes
+Kyrgyzstan,KG,KGZ,417,Yes
+Lao People's Democratic Republic,LA,LAO,418,Yes
+Latvia,LV,LVA,428,Yes
+Lebanon,LB,LBN,422,Yes
+Lesotho,LS,LSO,426,Yes
+Liberia,LR,LBR,430,Yes
+Libya,LY,LBY,434,Yes
+Liechtenstein,LI,LIE,438,Yes
+Lithuania,LT,LTU,440,Yes
+Luxembourg,LU,LUX,442,Yes
+Macao,MO,MAC,446,No
+Macedonia (the former Yugoslav Republic of),MK,MKD,807,Yes
+Madagascar,MG,MDG,450,Yes
+Malawi,MW,MWI,454,Yes
+Malaysia,MY,MYS,458,Yes
+Maldives,MV,MDV,462,Yes
+Mali,ML,MLI,466,Yes
+Malta,MT,MLT,470,Yes
+Marshall Islands,MH,MHL,584,Yes
+Martinique,MQ,MTQ,474,No
+Mauritania,MR,MRT,478,Yes
+Mauritius,MU,MUS,480,Yes
+Mayotte,YT,MYT,175,No
+Mexico,MX,MEX,484,Yes
+Micronesia (Federated States of),FM,FSM,583,Yes
+Moldova (Republic of),MD,MDA,498,Yes
+Monaco,MC,MCO,492,Yes
+Mongolia,MN,MNG,496,Yes
+Montenegro,ME,MNE,499,Yes
+Montserrat,MS,MSR,500,No
+Morocco,MA,MAR,504,Yes
+Mozambique,MZ,MOZ,508,Yes
+Myanmar,MM,MMR,104,Yes
+Namibia,NA,NAM,516,Yes
+Nauru,NR,NRU,520,Yes
+Nepal,NP,NPL,524,Yes
+Netherlands,NL,NLD,528,Yes
+New Caledonia,NC,NCL,540,No
+New Zealand,NZ,NZL,554,Yes
+Nicaragua,NI,NIC,558,Yes
+Niger,NE,NER,562,Yes
+Nigeria,NG,NGA,566,Yes
+Niue,NU,NIU,570,No
+Norfolk Island,NF,NFK,574,No
+Northern Mariana Islands,MP,MNP,580,No
+Norway,NO,NOR,578,Yes
+Oman,OM,OMN,512,Yes
+Pakistan,PK,PAK,586,Yes
+Palau,PW,PLW,585,Yes
+Palestine, State of,PS,PSE,275,No
+Panama,PA,PAN,591,Yes
+Papua New Guinea,PG,PNG,598,Yes
+Paraguay,PY,PRY,600,Yes
+Peru,PE,PER,604,Yes
+Philippines,PH,PHL,608,Yes
+Pitcairn,PN,PCN,612,No
+Poland,PL,POL,616,Yes
+Portugal,PT,PRT,620,Yes
+Puerto Rico,PR,PRI,630,No
+Qatar,QA,QAT,634,Yes
+Réunion,RE,REU,638,No
+Romania,RO,ROU,642,Yes
+Russian Federation,RU,RUS,643,Yes
+Rwanda,RW,RWA,646,Yes
+Saint Barthélemy,BL,BLM,652,No
+Saint Helena, Ascension and Tristan da Cunha,SH,SHN,654,No
+Saint Kitts and Nevis,KN,KNA,659,Yes
+Saint Lucia,LC,LCA,662,Yes
+Saint Martin (French part),MF,MAF,663,No
+Saint Pierre and Miquelon,PM,SPM,666,No
+Saint Vincent and the Grenadines,VC,VCT,670,Yes
+Samoa,WS,WSM,882,Yes
+San Marino,SM,SMR,674,Yes
+Sao Tome and Principe,ST,STP,678,Yes
+Saudi Arabia,SA,SAU,682,Yes
+Senegal,SN,SEN,686,Yes
+Serbia,RS,SRB,688,Yes
+Seychelles,SC,SYC,690,Yes
+Sierra Leone,SL,SLE,694,Yes
+Singapore,SG,SGP,702,Yes
+Sint Maarten (Dutch part),SX,SXM,534,No
+Slovakia,SK,SVK,703,Yes
+Slovenia,SI,SVN,705,Yes
+Solomon Islands,SB,SLB,90,Yes
+Somalia,SO,SOM,706,Yes
+South Africa,ZA,ZAF,710,Yes
+South Georgia and the South Sandwich Islands,GS,SGS,239,No
+South Sudan,SS,SSD,728,Yes
+Spain,ES,ESP,724,Yes
+Sri Lanka,LK,LKA,144,Yes
+Sudan,SD,SDN,729,Yes
+Suriname,SR,SUR,740,Yes
+Svalbard and Jan Mayen,SJ,SJM,744,No
+Swaziland,SZ,SWZ,748,Yes
+Sweden,SE,SWE,752,Yes
+Switzerland,CH,CHE,756,Yes
+Syrian Arab Republic,SY,SYR,760,Yes
+Taiwan, Province of China[a],TW,TWN,158,No
+Tajikistan,TJ,TJK,762,Yes
+Tanzania, United Republic of,TZ,TZA,834,Yes
+Thailand,TH,THA,764,Yes
+Timor-Leste,TL,TLS,626,Yes
+Togo,TG,TGO,768,Yes
+Tokelau,TK,TKL,772,No
+Tonga,TO,TON,776,Yes
+Trinidad and Tobago,TT,TTO,780,Yes
+Tunisia,TN,TUN,788,Yes
+Turkey,TR,TUR,792,Yes
+Turkmenistan,TM,TKM,795,Yes
+Turks and Caicos Islands,TC,TCA,796,No
+Tuvalu,TV,TUV,798,Yes
+Uganda,UG,UGA,800,Yes
+Ukraine,UA,UKR,804,Yes
+United Arab Emirates,AE,ARE,784,Yes
+United Kingdom of Great Britain and Northern Ireland,GB,GBR,826,Yes
+United States Minor Outlying Islands,UM,UMI,581,No
+United States of America,US,USA,840,Yes
+Uruguay,UY,URY,858,Yes
+Uzbekistan,UZ,UZB,860,Yes
+Vanuatu,VU,VUT,548,Yes
+Venezuela (Bolivarian Republic of),VE,VEN,862,Yes
+Viet Nam,VN,VNM,704,Yes
+Virgin Islands (British),VG,VGB,92,No
+Virgin Islands (U.S.),VI,VIR,850,No
+Wallis and Futuna,WF,WLF,876,No
+Western Sahara,EH,ESH,732,No
+Yemen,YE,YEM,887,Yes
+Zambia,ZM,ZMB,894,Yes
+Zimbabwe,ZW,ZWE,716,Yes
